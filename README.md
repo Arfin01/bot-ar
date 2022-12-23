@@ -1,6 +1,6 @@
 <h1 align="center">Zero YT7 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://ibb.co/MNStjZ7" />
+<img src="https://i.ibb.co/q1jc47p/20211103-222854.jpg" />
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ npm start
 
 ## Big Thanks To
  ```
-• Zero YT7
+• ARFIN
 • Allah S.W.T
 • Ortu
 • All Subscriber Ku
